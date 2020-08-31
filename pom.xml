@@ -6,6 +6,6 @@
   <name>dockerjenkinsintegrationsample</name>
   
   <build>
-  	<finalName>docker-jenkins-int-sample</finalName>
+  	<finalName>docker-jenkins-integration-sample</finalName>
   </build>
 </project>
